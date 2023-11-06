@@ -1,1 +1,2 @@
 # MyFirstGitProject
+Мой первый репозиторий
